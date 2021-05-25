@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeepayrollUsingThreads", "EmployeepayrollUsingThreads\EmployeepayrollUsingThreads.csproj", "{E3690542-1E42-4A07-97C9-6018814A9525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3690542-1E42-4A07-97C9-6018814A9525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3690542-1E42-4A07-97C9-6018814A9525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3690542-1E42-4A07-97C9-6018814A9525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3690542-1E42-4A07-97C9-6018814A9525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {481987FF-9614-47C9-99FB-2C30A9C69C16}
+	EndGlobalSection
+EndGlobal
